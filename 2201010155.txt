@@ -1,3 +1,4 @@
 Belajar GIT Mata Kuliah Cloud Computing
-Nama   : Sri Khadijah Br Tarigan
-matkul : Cloud Computing
+Nama    : Sri Khadijah Br Tarigan
+matkul  : Cloud Computing
+Jam Kul : Rabu, 19.50 wita
